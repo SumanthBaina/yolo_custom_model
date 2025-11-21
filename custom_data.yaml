@@ -1,0 +1,17 @@
+# custom_data.yaml
+
+# Root directory where your dataset lives (!! CHANGE THIS PATH TO YOUR ABSOLUTE PATH !!)
+path: C:/yolo_custom_model
+# Example Path: C:/Users/YourName/Documents/yolo_custom_project
+
+# Paths to the image directories, relative to the 'path' above
+train: images/train  
+val: images/val      
+
+# Number of classes
+nc: 2 
+
+# Class names, in the same order as their ID (0, 1, ...)
+names: 
+  0: Table
+  1: Manager
