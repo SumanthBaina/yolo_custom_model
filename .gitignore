@@ -1,13 +1,7 @@
-# Ignore Model Weights (Crucial!)
-runs/
-*.pt
-
-# Ignore Dataset Images and Labels (These are large and can be stored elsewhere)
-images/
-labels/
 
 # Ignore Python Caches and Virtual Environment folders
 __pycache__/
 .ipynb_checkpoints
 venv/
+
 .DS_Store

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/yolo_custom_model/runs/mlflow/686099028956182477/f26546ee177f429db79647b6aabf5f15/artifacts
+end_time: 1763707294778
+entry_point_name: ''
+experiment_id: '686099028956182477'
+lifecycle_stage: active
+run_id: f26546ee177f429db79647b6aabf5f15
+run_name: train2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763707119027
+status: 3
+tags: []
+user_id: SumanthBaina
